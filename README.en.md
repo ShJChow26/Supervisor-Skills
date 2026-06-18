@@ -33,10 +33,15 @@ Our vision is simple: **Let AI become your true, always-on research co-advisor.*
 
 Scan the QR code on the left to join our community. If the group QR code has expired, add the admin on WeChat (`xyp619`) with the remark **"Supervisor-Skills + your name"**.
 
+By joining, you get:
+- 🔔 First-hand updates on new Skills and Handbook releases
+- 💬 Exchange paper writing and AI-assisted research tips with peers
+- 🎙️ Join occasional online Q&A and experience-sharing sessions
+
 <table>
   <tr>
     <td align="center" width="300">
-      <img src="assets/images/wechat-group.JPG" height="280" />
+      <img src="assets/images/wechat-group.JPG" height="340" />
       <br/><sub>Group QR code (valid for 7 days; add the admin if expired)</sub>
     </td>
     <td align="center" width="300">

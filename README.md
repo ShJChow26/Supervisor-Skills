@@ -29,10 +29,15 @@
 
 欢迎扫描左侧二维码加入社区交流群。若群二维码已过期，请添加管理员微信 `xyp619`，并备注 **"Supervisor-Skills + 姓名"** 申请入群。
 
+加入后你可以：
+- 🔔 第一时间获取 Skills 与 Handbook 的最新更新通知
+- 💬 与同路人交流论文写作、AI 辅助科研心得
+- 🎙️ 参与不定期的线上答疑与经验分享活动
+
 <table>
   <tr>
     <td align="center" width="300">
-      <img src="assets/images/wechat-group.JPG" height="280" />
+      <img src="assets/images/wechat-group.JPG" height="340" />
       <br/><sub>群二维码（7天内有效，过期请添加管理员）</sub>
     </td>
     <td align="center" width="300">
